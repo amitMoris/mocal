@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182.523" height="214.685" viewBox="0 0 182.523 214.685">
+  <defs>
+    <filter id="Rectangle_3759" x="0" y="0" width="182.523" height="214.685" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bnr1-6" transform="translate(49 16)">
+    <g transform="matrix(1, 0, 0, 1, -49, -16)" filter="url(#Rectangle_3759)">
+      <rect id="Rectangle_3759-2" data-name="Rectangle 3759" width="104.523" height="136.685" rx="10" transform="translate(49 16)" fill="#fff" opacity="0.9"/>
+    </g>
+    <g id="Group_12433" data-name="Group 12433" transform="translate(28.149 9.827)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M24.121,48.242A24.127,24.127,0,0,1,14.732,1.9,23.971,23.971,0,0,1,24.121,0V25.014h24.1a24.122,24.122,0,0,1-24.1,23.228Z" transform="translate(0 0)" fill="#ef1855"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M0,23.228H0V0H24.1a23.993,23.993,0,0,1-7.345,16.454A24,24,0,0,1,0,23.228Z" transform="translate(24.121 25.03)" fill="#6d007d"/>
+    </g>
+    <g id="Rectangle_3763" data-name="Rectangle 3763" transform="translate(8.04 71.469)" fill="none" stroke="#04000a" stroke-width="1">
+      <rect width="6.254" height="6.254" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.254" height="5.254" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3764" data-name="Rectangle 3764" transform="translate(8.04 106.31)" fill="none" stroke="#04000a" stroke-width="1">
+      <rect width="6.254" height="6.254" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.254" height="5.254" rx="0.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_3765" data-name="Rectangle 3765" width="71.469" height="4.467" rx="1" transform="translate(20.547 73.256)" fill="#6d007d" opacity="0.3"/>
+    <rect id="Rectangle_3766" data-name="Rectangle 3766" width="71.469" height="4.467" rx="1" transform="translate(20.547 83.083)" fill="#6d007d" opacity="0.3"/>
+    <rect id="Rectangle_3767" data-name="Rectangle 3767" width="44.668" height="4.467" rx="1" transform="translate(20.547 92.91)" fill="#6d007d" opacity="0.3"/>
+    <rect id="Rectangle_3768" data-name="Rectangle 3768" width="70.576" height="4.467" rx="1" transform="translate(20.547 108.097)" fill="#6d007d" opacity="0.3"/>
+    <rect id="Rectangle_3769" data-name="Rectangle 3769" width="62.535" height="4.467" rx="1" transform="translate(20.547 117.924)" fill="#6d007d" opacity="0.3"/>
+    <g id="Group_12434" data-name="Group 12434" transform="translate(8.487 7.913)">
+      <line id="Line_1" data-name="Line 1" x2="6.254" y2="6.254" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x1="6.254" y2="6.254" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

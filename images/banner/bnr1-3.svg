@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224.512" height="156.616" viewBox="0 0 224.512 156.616">
+  <defs>
+    <filter id="Rectangle_3773" x="0" y="0" width="224.512" height="156.616" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6d007d"/>
+      <stop offset="1" stop-color="#ef1855"/>
+    </linearGradient>
+  </defs>
+  <g id="bnr1-3" transform="translate(49 16)">
+    <g transform="matrix(1, 0, 0, 1, -49, -16)" filter="url(#Rectangle_3773)">
+      <rect id="Rectangle_3773-2" data-name="Rectangle 3773" width="146.512" height="78.616" rx="10" transform="translate(49 16)" fill="#fff" opacity="0.9"/>
+    </g>
+    <g id="Group_12435" data-name="Group 12435" transform="translate(8.487 7.594)">
+      <line id="Line_1" data-name="Line 1" x2="6.254" y2="6.254" transform="translate(0 0)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x1="6.254" y2="6.254" transform="translate(0 0)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(25.014 47.348)" fill="none" stroke="#707070" stroke-width="2">
+      <circle cx="4.913" cy="4.913" r="4.913" stroke="none"/>
+      <circle cx="4.913" cy="4.913" r="3.913" fill="none"/>
+    </g>
+    <path id="Path_65" data-name="Path 65" d="M0,10.306l30.917-30.95L49.16,9.144,55,11.086,83.976-2.2" transform="translate(32.608 39.276)" fill="none" stroke="#707070" stroke-width="2"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="5.807" cy="5.807" r="5.807" transform="translate(58.069 12.507)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="5.807" cy="5.807" r="5.807" transform="translate(109.884 31.268)" fill="url(#linear-gradient)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(78.616 47.348)" fill="none" stroke="#707070" stroke-width="2">
+      <circle cx="4.913" cy="4.913" r="4.913" stroke="none"/>
+      <circle cx="4.913" cy="4.913" r="3.913" fill="none"/>
+    </g>
+  </g>
+</svg>

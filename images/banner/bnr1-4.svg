@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="235.232" height="154.829" viewBox="0 0 235.232 154.829">
+  <defs>
+    <filter id="Path_66" x="0" y="0" width="235.232" height="154.829" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.96" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdec07"/>
+      <stop offset="1" stop-color="#ef1855"/>
+    </linearGradient>
+  </defs>
+  <g id="bnr1-4" transform="translate(49 16)">
+    <g transform="matrix(1, 0, 0, 1, -49, -16)" filter="url(#Path_66)">
+      <path id="Path_66-2" data-name="Path 66" d="M8.934,0H148.3a8.934,8.934,0,0,1,8.934,8.934V59.855a8.934,8.934,0,0,1-8.934,8.934L12.952,67.655,0,76.829V8.934A8.934,8.934,0,0,1,8.934,0Z" transform="translate(49 16)" fill="#3b3565" opacity="0.9"/>
+    </g>
+    <g id="Group_12436" data-name="Group 12436" transform="translate(10.118 10.72)">
+      <line id="Line_5" data-name="Line 5" x2="7.303" y2="7.303" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_6" data-name="Line 6" x1="7.303" y2="7.303" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_3774" data-name="Rectangle 3774" width="26.801" height="3.573" rx="1.787" transform="translate(26.801 16.081)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3780" data-name="Rectangle 3780" width="18.761" height="3.573" rx="1.787" transform="translate(92.016 27.694)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3786" data-name="Rectangle 3786" width="45.562" height="3.573" rx="1.787" transform="translate(92.016 50.028)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3783" data-name="Rectangle 3783" width="26.801" height="3.573" rx="1.787" transform="translate(41.095 38.415)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3775" data-name="Rectangle 3775" width="17.867" height="3.573" rx="1.787" transform="translate(58.962 16.081)" fill="#828099"/>
+    <rect id="Rectangle_3778" data-name="Rectangle 3778" width="17.867" height="3.573" rx="1.787" transform="translate(26.801 27.694)" fill="#828099"/>
+    <rect id="Rectangle_3782" data-name="Rectangle 3782" width="11.614" height="3.573" rx="1.787" transform="translate(26.801 38.415)" fill="#828099"/>
+    <rect id="Rectangle_3787" data-name="Rectangle 3787" width="44.668" height="3.573" rx="1.787" transform="translate(26.801 50.028)" fill="#828099"/>
+    <rect id="Rectangle_3784" data-name="Rectangle 3784" width="9.827" height="3.573" rx="1.787" transform="translate(92.016 38.415)" fill="#828099"/>
+    <rect id="Rectangle_3785" data-name="Rectangle 3785" width="26.801" height="3.573" rx="1.787" transform="translate(106.31 38.415)" fill="#828099"/>
+    <rect id="Rectangle_3779" data-name="Rectangle 3779" width="26.801" height="3.573" rx="1.787" transform="translate(50.028 27.694)" fill="#828099"/>
+    <rect id="Rectangle_3781" data-name="Rectangle 3781" width="26.801" height="3.573" rx="1.787" transform="translate(115.244 27.694)" fill="#828099"/>
+    <rect id="Rectangle_3776" data-name="Rectangle 3776" width="26.801" height="3.573" rx="1.787" transform="translate(92.016 16.081)" fill="#828099"/>
+    <rect id="Rectangle_3777" data-name="Rectangle 3777" width="17.867" height="3.573" rx="1.787" transform="translate(124.177 16.081)" fill="#828099"/>
+  </g>
+</svg>
